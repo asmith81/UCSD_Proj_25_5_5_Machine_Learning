@@ -1,2 +1,2 @@
 ﻿[lfs]
-    url = s3://alden-smith-ucsd-projects/UCSD_Proj_25_5_5_Machine_Learning/
+    url = https://s3.us-east-2.amazonaws.com/alden-smith-ucsd-projects/UCSD_Proj_25_5_5_Machine_Learning
